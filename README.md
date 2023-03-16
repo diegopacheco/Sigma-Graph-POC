@@ -6,7 +6,11 @@ The idea is to make a graph of dependencies to easily visualize:
  * Teams without work
  * Critical Path
  * Priorization
-
+#### Improvements
+ * Read the Graph Relationships from a file
+ * Read from another backend i.e: S3, DB or Jira
+ * Add Search on the Graph
+ * Better orient/align the Graph
 ### To Build
 ```bash
 npm install
